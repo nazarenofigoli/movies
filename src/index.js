@@ -1,10 +1,10 @@
-const contacto = require ('../contacto');
-const enCartelera = require ('../enCartelera');
-const homePage = require ('../homePage');
-const masVotadas = require ('../masVotadas');
-const preguntasFrecuentes = require ('../preguntasFrecuentes');
-const sucursales = require ('../sucursales');
-const { listarSalas } = require('../sucursales');
+const contacto = require ('./contacto');
+const enCartelera = require ('./enCartelera');
+const homePage = require ('./homePage');
+const masVotadas = require ('./masVotadas');
+const preguntasFrecuentes = require ('./preguntasFrecuentes');
+const sucursales = require ('./sucursales');
+const { listarSalas } = require('./sucursales');
 let index = {
     homePage:function(res){
        
