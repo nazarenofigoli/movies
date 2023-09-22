@@ -1,6 +1,6 @@
-movies
+Movies
 Nazareno Figoli 
-Gustavo Insfran :43 _ Berazategui
-Martin Baryuk: 31 _ Lanús
-Ayelen coppa : 26 _ San Luis
-Paula Escobar    
+Gustavo Insfran : 43 años - Ciudad : Berazategui
+Martin Baryuk: 31 años - Ciudad : Lanús
+Ayelen coppa : 26 años - Ciudad : San Luis
+Paula Escobar : 25 años - Ciudad : La Plata 
